@@ -11,7 +11,7 @@ Check out my [npm](https://www.npmjs.com/~niklabh) packages. And read my blog at
 
 
 - 🔭 I’m currently working on node.js, react
-- 🌱 I’m currently learning rust.
+- 🦀 I’m currently learning rust.
 
 
 PGP Key: [0xB5F2384F](http://niklabh.github.io/assets/pgp.txt)
